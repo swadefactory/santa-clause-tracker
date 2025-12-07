@@ -1,0 +1,7 @@
+{
+  "name": "Santa Clause™ - AI North Pole",
+  "description": "An interactive AI Santa experience connecting kids, parents, and teachers using Gemini Multimodal capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
